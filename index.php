@@ -9,6 +9,7 @@
       <?php
         echo 'brunch-first';
         echo 'test-brunch-first';
+        echo 'test-three line';
       ?>
   </body>
 </html>
