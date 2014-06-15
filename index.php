@@ -7,12 +7,14 @@
   
   <body>
       <?php
-        echo 'brunch-first';
-        echo 'test-brunch-first';
-        echo 'test-three line';
-        echo 'test from git to netbeans';
-        echo 'test2 from git';
-        echo 'test3 to gitHub';
-        ?>
+        
+// размеры фото (в $attr сразу html-код для вставки в img
+//list($width, $height, $type, $attr) = getimagesize("sea.jpg");
+//echo $type.'<br>';
+//echo "<img src=\"sea.jpg\" $attr alt=\"пример getimagesize()\" />";
+      
+
+
+?>
   </body>
 </html>
