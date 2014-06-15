@@ -11,5 +11,6 @@
         echo 'test-brunch-first';
         echo 'test-three line';
         echo 'test from git to netbeans';
+        echo 'test2 from git';
   </body>
 </html>
