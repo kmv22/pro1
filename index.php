@@ -12,5 +12,7 @@
         echo 'test-three line';
         echo 'test from git to netbeans';
         echo 'test2 from git';
+        echo 'test3 to gitHub';
+        ?>
   </body>
 </html>
