@@ -8,6 +8,7 @@
   <body>
       <?php
         echo 'brunch-first';
+        echo 'test-brunch-first';
       ?>
   </body>
 </html>
